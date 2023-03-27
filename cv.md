@@ -1,4 +1,5 @@
 # Kristina Chaikina
+![cat pic](https://static.thenounproject.com/png/4003258-200.png)
 **Contact information**: ```@k-chai#8265```
 
 ## Education:
