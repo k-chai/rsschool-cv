@@ -2,6 +2,12 @@
 ![cat pic](https://static.thenounproject.com/png/4003258-200.png)
 **Contact information**: ```@k-chai#8265```
 
+## Skills: 
+-	Python
+-	JavaScript 
+-	CSS, HTML
+-	C/C++
+
 ## Education:
 - **2017 — 2021** National Research University Higher School of Economics, *Moscow*
   Education Program: Applied Mathematics *(Bachelor)*
