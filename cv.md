@@ -1,9 +1,9 @@
 # Kristina Chaikina
-==================
+-------------------------
 
 ## Contacts
-**GitHub:** [k-chai](https://github.com/k-chai)
-**LinkedIn:** [k-chaikina](https://www.linkedin.com/in/k-chaikina/)
+- **GitHub:** [k-chai](https://github.com/k-chai)
+- **LinkedIn:** [k-chaikina](https://www.linkedin.com/in/k-chaikina/)
 
 ## About me
 With a passion for coding and design, I enjoy creating engaging user experiences. Outside of coding, I love traveling, reading, and exploring different cultures. I'm always eager to learn new skills, whether it's a new programming language or a fun project. 
