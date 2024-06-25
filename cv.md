@@ -1,3 +1,5 @@
+<img src="assets/profile.png" alt="Profile Image" width="100">
+
 # Kristina Chaikina
 -------------------------
 
