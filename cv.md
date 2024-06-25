@@ -14,10 +14,6 @@ With a passion for coding and design, I enjoy creating engaging user experiences
 - HTML
 - CSS
 - C/C++
-- SQL
-- Bash 
-- R
-- OOP 
 - Git
 
 ## Languages
@@ -32,6 +28,7 @@ With a passion for coding and design, I enjoy creating engaging user experiences
 - [RS School, JavaScript/Frontend](https://rs.school/)
 
 ## Code example
+[Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 ```
 function digitalRoot(n) {
   result = 0
